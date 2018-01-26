@@ -5,5 +5,5 @@ if !(board[index]==" "||"")
 #if board[index]=="X"||"O"
 #  true
 
-#end
+end
 end
