@@ -4,5 +4,3 @@ if !(board[index]==" "||"")
 elsif (board[index]=="X"||"O")
 end
 end
- 
-
