@@ -3,3 +3,4 @@ def position_taken?(array, indexs)
   !(array[indexs]==" ")
 
 end
+  
