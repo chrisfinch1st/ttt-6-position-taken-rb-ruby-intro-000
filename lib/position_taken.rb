@@ -4,4 +4,3 @@ def position_taken?(array, indexs)
 
 end
 end
-  
